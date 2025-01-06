@@ -1,0 +1,10 @@
+.background {
+    background-image: url(images/Ruine1-avif.png);
+    width: 100%;
+    height: calc(var(--header-height) - var(--navbar-height));
+    background-size: cover;
+}
+
+.h1 {
+    font-size: 5em;
+}
