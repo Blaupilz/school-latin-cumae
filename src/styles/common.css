@@ -1,4 +1,11 @@
 .image1 {
-    height: 50%;
-    width: 50%;
+    height: 25%;
+    width: 25%;
+    padding-left: 20cm;
+    z-index: 2;
+    position: absolute;
+}
+.commontext{
+z-index: 2;
+position: absolute;
 }
