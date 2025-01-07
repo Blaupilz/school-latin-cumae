@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Dangrek&display=swap');
 
 .font-size {
-    font-size: 2em;
+    font-size: 16px;
 }
 
 
@@ -19,4 +19,24 @@
 
 .test {
     background: linear-gradient(0deg, rgb(235, 216, 167) 0%, rgb(224, 209, 171) 40%, rgb(219, 208, 180) 100%);
+}
+a{
+    font-size: 16px;
+}
+.link-button-download {
+    padding: 15px;
+    background: #00A9D4;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    border-radius: 12px;
+    display: block;
+    width: 320px;
+    text-align: center;
+    margin: 20px auto;
+    transition: 0.2s ease-in-out;
+    cursor: pointer;
+    z-index: 2;
+    /* position: relative; */
+    box-shadow: 2px 4px 6px 5px rgba(25,25,25,0.55);
 }
