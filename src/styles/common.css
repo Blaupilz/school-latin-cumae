@@ -1,16 +1,19 @@
 .image-container {
-    display: flex;
-    justify-content: flex-end;
-    align-items: flex-start;
+ z-index: 1;
+ padding: 20cm;
+ position: absolute;
 }
 
 .image1 {
-    height: 23%;
-    width: 23%;
-    float: right;
-    padding-right: 100px;
+    height: 100%;
+    width: 100%;
+
+}
+.header{
+    z-index: 2;
+    position: absolute;
 }
 
 body {
-    position: relative;
+    position: relative
 }

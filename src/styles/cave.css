@@ -1,4 +1,17 @@
-.imgcaveposition{
+.cimgc{
     z-index: 1;
-    padding-left:20cm
+    margin-left: 20cm;
+    position: absolute;
+}
+.ct{
+    position: absolute;
+    z-index: 2;
+}
+.imgcaveposition{
+    padding-left: 20cm;
+    width:  10%;
+    height: 10%;;
+}
+body{
+    position:relative;
 }
