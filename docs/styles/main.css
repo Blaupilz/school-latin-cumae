@@ -9,12 +9,14 @@
     position: absolute;
 }
 
-.image1 {
+/* .image1 {
     height: 18%;
     width: 18%;
     margin-left: 64em;
     border-radius: 20px;
-}
+    position: relative;
+    top: -20px;
+} */
 
 .test {
     /* background: linear-gradient(0deg, rgb(235, 216, 167) 0%, rgb(224, 209, 171) 40%, rgb(219, 208, 180) 100%); */
