@@ -1,14 +1,14 @@
+.image-container {
+    display: flex;
+}
+
 .image1 {
-   height: 23%;
-   width: 23%;
-    padding-left: 38cm;
-    z-index: 2;
-    
+    height: 23%;
+    width: 23%;
+    float: right;
+    padding-right: 100px;
 }
-.commontext{
-z-index: 2;
-position: absolute;
-}
-body{
+
+body {
     position: relative;
 }

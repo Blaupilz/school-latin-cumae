@@ -10,3 +10,12 @@ body {
     font-size: 1.5em;
     font-family: 'Roboto', sans-serif;
 }
+
+.header {
+    margin-left: 64px;
+    font-size: 0.9em;
+}
+
+.test {
+    background: linear-gradient(0deg, rgb(235, 216, 167) 0%, rgb(224, 209, 171) 40%, rgb(219, 208, 180) 100%);
+}
