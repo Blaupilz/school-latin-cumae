@@ -3,7 +3,7 @@ body {
 }
 
 .background {
-    background-image: url(../images/ruin-cumae.jpeg);
+    background-image: url(../images/cave-sybille.jpg);
     background-size: cover;
     filter: blur(8px);
     height: 100vh;
@@ -28,7 +28,7 @@ body {
     width: 100vw;
     justify-content: center;
     position: absolute;
-    font-size: 4em;
+    font-size: 3em;
 }
 
 .title h1 {
@@ -42,7 +42,6 @@ body {
 .headline1 {
     color: rgb(240, 240, 240);
     font-family: 'Agbalumo', system-ui;
-
 }
 
 .headline2 {

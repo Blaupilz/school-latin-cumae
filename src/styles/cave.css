@@ -1,17 +1,11 @@
-.cimgc{
-    z-index: 1;
-    margin-left: 20cm;
-    position: absolute;
+
+.image2 {
+    height: 20%;
+    width: 20%;
+    margin-left: 64em;
+    border-radius: 20px;
 }
-.ct{
-    position: absolute;
-    z-index: 2;
-}
-.imgcaveposition{
-    padding-left: 13cm;
-    width:  10%;
-    height: 10%;;
-}
+
 body{
     position:relative;
 }
