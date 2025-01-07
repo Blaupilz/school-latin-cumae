@@ -14,3 +14,13 @@
 body {
     position: relative;
 }
+
+.header2 {
+    display: flex;
+    margin-left: 64px;
+    font-size: 0.9em;
+}
+
+.image-container {
+    width: 100vh;
+}
