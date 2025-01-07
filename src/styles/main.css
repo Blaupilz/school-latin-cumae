@@ -23,6 +23,7 @@
 a{
     font-size: 16px;
 }
+
 .link-button-download {
     padding: 15px;
     background: #00A9D4;
@@ -39,4 +40,10 @@ a{
     z-index: 2;
     /* position: relative; */
     box-shadow: 2px 4px 6px 5px rgba(25,25,25,0.55);
+}
+
+.link-container {
+    display: flex;
+    justify-content: center;
+    transition: 0.2s ease-in-out;
 }
